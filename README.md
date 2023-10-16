@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying RENEWABLE ENERGY
+- 🌱 I’m currently learning more about ENERGY MARKETS
+- 👯 I’m looking to collaborate on FUN PROJECTS
+- 🤔 I’m looking for help with ML
+- 💬 Ask me about RENEWABLES
+- 😄 Pronouns: he/him
+
 <!--
 **dhruvkabra/dhruvkabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
