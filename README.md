@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying RENEWABLE ENERGY
-- 🌱 I’m currently learning more about ENERGY MARKETS
-- 👯 I’m looking to collaborate on FUN PROJECTS
+- 🔭 I’m currently working on Self-development
+- 🌱 I’m currently learning about ETRM and algo trading
+- 👯 I’m looking to collaborate on Impactful Projects
 - 🤔 I’m looking for help with ML
-- 💬 Ask me about RENEWABLES
+- 💬 Ask me about Renewables, Flexibility and Power Markets
 - 😄 Pronouns: he/him
 
 <!--
